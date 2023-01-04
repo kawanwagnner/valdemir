@@ -283,7 +283,7 @@ footer {
 .services .title::after,
 .teams .title::after {
     background: #111;
-    content: "Que oferecemos";
+    content: "Ofereço";
 }
 
 .services .serv-content .card {
@@ -417,7 +417,7 @@ footer {
 
 /*  sessão equipe  */
 .teams .title::after {
-    content: "Treinamentos de";
+    content: "Treinamentos";
 }
 
 .teams .carousel .card {
